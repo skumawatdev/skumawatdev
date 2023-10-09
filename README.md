@@ -11,7 +11,7 @@
 
 - 🤝 I'm seeking assistance with projects focused on hosting static websites in AWS, utilizing services like AWS S3, Route 53, Certificate Manager, and CloudFront. **Host a Static Website in AWS using AWS Bucket, Route53, Certificate Manager & CloudFront**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sunilkumawat1/](https://github.com/Sunilkumawat1/)
+- 👨‍💻 All of my projects are available at [https://github.com/Skumawatdev/](https://github.com/Skumawatdev/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@SunilOps](https://hashnode.com/@SunilOps)
 
